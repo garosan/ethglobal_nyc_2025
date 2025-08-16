@@ -11,4 +11,8 @@ contract Counter {
     function increment() public {
         number++;
     }
+
+    function helloWorld() public pure returns (string memory) {
+        return "Hello world";
+    }
 }
