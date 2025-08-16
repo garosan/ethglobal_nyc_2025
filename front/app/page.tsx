@@ -62,7 +62,7 @@ export default function HomePage() {
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold font-sans text-foreground mb-6 leading-tight">
               Save your memories.
               <br />
-              <span className="text-primary">Prove they're yours.</span>
+              <span className="text-primary">Prove they&apos;re yours.</span>
               <br />
               Forever.
             </h1>
@@ -124,7 +124,9 @@ export default function HomePage() {
                 <div className="mx-auto mb-4 h-12 w-12 rounded-lg bg-secondary/10 flex items-center justify-center">
                   <Users className="h-6 w-6 text-secondary" />
                 </div>
-                <CardTitle className="font-sans">Prove it's yours</CardTitle>
+                <CardTitle className="font-sans">
+                  Prove it&apos;s yours
+                </CardTitle>
               </CardHeader>
               <CardContent>
                 <CardDescription className="text-center">
@@ -216,7 +218,7 @@ export default function HomePage() {
                   Anchor Forever
                 </h3>
                 <p className="text-muted-foreground">
-                  Your content's fingerprint is stored on the blockchain,
+                  Your content&apos;s fingerprint is stored on the blockchain,
                   creating an immutable record of your memory.
                 </p>
               </div>
@@ -305,7 +307,7 @@ export default function HomePage() {
       <section className="py-20 bg-gradient-to-r from-primary/10 via-background to-secondary/10">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl sm:text-4xl font-bold font-sans text-foreground mb-6">
-            Don't let your memories vanish.
+            Don&apos;t let your memories vanish.
             <br />
             Start your first proof today.
           </h2>
