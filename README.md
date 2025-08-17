@@ -107,7 +107,7 @@ A minimalist yet powerful registry to store memory proofs:
 - 🟢 Zircuit Garfield Testnet
 
 🔗 [View on Flowscan](https://evm-testnet.flowscan.io)
-🔗 [View on Zircuit Garfield Explorer](https://explorer.zircuit.com)
+🔗 [View on Zircuit Garfield Explorer](https://explorer.garfield-testnet.zircuit.com/)
 
 ---
 

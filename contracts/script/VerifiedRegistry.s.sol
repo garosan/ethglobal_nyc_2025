@@ -6,14 +6,13 @@ import "../src/VerifiedRegistry.sol";
 
 contract VerifiedRegistryScript is Script {
     function run() external returns (address) {
-        // Read the verifier address from the environment variables
-        address verifierAddress = vm.envAddress("VERIFIER_ADDRESS");
-        require(verifierAddress != address(0), "VERIFIER_ADDRESS env var not set");
+        // Hardcoded verifier for demo purposes
+        address verifier = 0xCC282EfE3101Ed36Fa5cE1bAa2e68a06B778f22d;
 
         vm.startBroadcast();
-        VerifiedRegistry registry = new VerifiedRegistry(verifierAddress);
+        VerifiedRegistry registry = new VerifiedRegistry(verifier);
         vm.stopBroadcast();
-        
+
         return address(registry);
     }
 }
