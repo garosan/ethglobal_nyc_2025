@@ -1,4 +1,4 @@
-# The Persistence of Memories (A Green App 🟢)
+# The Persistence of Memory (A Green App 🟢)
 
 > 🔗 A **Web3 social utility** for backing up, organizing, and anchoring your most meaningful digital memories on-chain — forever.
 
