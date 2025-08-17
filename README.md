@@ -104,10 +104,14 @@ A minimalist yet powerful registry to store memory proofs:
 ### Deployed On
 
 - 🟢 Flow EVM Testnet
+
 - 🟢 Zircuit Garfield Testnet
 
-🔗 [View on Flowscan](https://evm-testnet.flowscan.io)
-🔗 [View on Zircuit Garfield Explorer](https://explorer.garfield-testnet.zircuit.com/)
+✅ [Verified Contract on Flowscan](https://evm-testnet.flowscan.io)
+✅ [Contract Deployment Txn Hash](https://explorer.garfield-testnet.zircuit.com/tx/0x299f67113e496706955020a781c741187e83277867d01e4587013389f33e9544)
+
+✅ [Verified Contract on Zircuit Testnet](https://explorer.garfield-testnet.zircuit.com/address/0x9C168ECBa01408DF02bd6C1C7A50EE0a63859b30?activeTab=3)
+✅ [Contract Deployment Txn Hash](https://explorer.garfield-testnet.zircuit.com/tx/0x299f67113e496706955020a781c741187e83277867d01e4587013389f33e9544)
 
 ---
 
