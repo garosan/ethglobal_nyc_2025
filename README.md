@@ -107,8 +107,8 @@ A minimalist yet powerful registry to store memory proofs:
 
 - 🟢 Zircuit Garfield Testnet
 
-✅ [Verified Contract on Flowscan](https://evm-testnet.flowscan.io)
-✅ [Contract Deployment Txn Hash](https://explorer.garfield-testnet.zircuit.com/tx/0x299f67113e496706955020a781c741187e83277867d01e4587013389f33e9544)
+✅ [Verified Contract on Flowscan](https://testnet.flowscan.io/evm/contract/0xDf0923Eaae5612ab144b1296D45D2740B336ba6b?tab=contract)
+✅ [Contract Deployment Txn Hash](https://testnet.flowscan.io/evm/tx/0x8461dc9be122ad9347b68321a2906441655044ec31c64cb690bf9f530a53f331)
 
 ✅ [Verified Contract on Zircuit Testnet](https://explorer.garfield-testnet.zircuit.com/address/0x9C168ECBa01408DF02bd6C1C7A50EE0a63859b30?activeTab=3)
 ✅ [Contract Deployment Txn Hash](https://explorer.garfield-testnet.zircuit.com/tx/0x299f67113e496706955020a781c741187e83277867d01e4587013389f33e9544)
