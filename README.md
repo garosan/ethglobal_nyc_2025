@@ -107,7 +107,7 @@ A minimalist yet powerful registry to store memory proofs:
 
 - 🟢 Zircuit Garfield Testnet
 
-✅ [Verified Contract on Flowscan](https://testnet.flowscan.io/evm/contract/0xDf0923Eaae5612ab144b1296D45D2740B336ba6b?tab=contract)
+✅ [Verified Contract on Flowscan](https://evm-testnet.flowscan.io/address/0xdf0923eaae5612ab144b1296d45d2740b336ba6b)
 ✅ [Contract Deployment Txn Hash](https://testnet.flowscan.io/evm/tx/0x8461dc9be122ad9347b68321a2906441655044ec31c64cb690bf9f530a53f331)
 
 ✅ [Verified Contract on Zircuit Testnet](https://explorer.garfield-testnet.zircuit.com/address/0x9C168ECBa01408DF02bd6C1C7A50EE0a63859b30?activeTab=3)
@@ -163,6 +163,7 @@ yarn dev
 - 🔗 [Nora (AI Solidity agent)](https://mynora.ai/)
 - 🔗 [Live Demo](https://ethglobal-nyc-2025.vercel.app/)
 - 📝 [ETHGlobal Submission](https://github.com/garosan/ethglobal_nyc_2025)
+- [Feedback for NoraAI Team](./NoraFeedback.md)
 
 ---
 
